@@ -8,7 +8,7 @@
     "src"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-hooks",
+  "name": "@busshi/react-hooks",
   "author": "busshi",
   "module": "dist/react-hooks.esm.js",
   "size-limit": [

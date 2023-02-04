@@ -5,7 +5,7 @@ Here is some reusable hooks for ReactJS and NextJS
 - useGetElementDimensions
 - useGetScrollDimensions
 
-# Usage
+## Installation
 
 `yarn add @busshi/react-hooks`
 or
