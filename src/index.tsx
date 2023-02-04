@@ -1,2 +1,9 @@
 export { useGetElementDimensions } from './hooks/useGetElementDimensions';
 export { useGetScrollDimensions } from './hooks/useGetScrollDimensions';
+export { useIsChrome } from './hooks/useIsChrome';
+export { useIsDarkMode } from './hooks/useIsDarkMode';
+export { useIsMobile } from './hooks/useIsMobile';
+export { useIsScrolling } from './hooks/useIsScrolling';
+export { useIsUserInactive } from './hooks/useIsUserInactive';
+export { useListenForOutsideClick } from './hooks/useListenForOutsideClick';
+export { useWindowSize } from './hooks/useWindowSize';
