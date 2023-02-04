@@ -1,6 +1,21 @@
 {
+  "name": "@busshi/react-hooks",
+  "author": "busshi",
   "version": "0.1.0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busshi/npm-react-hooks.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "NextJS",
+    "hooks"
+  ],
+  "bugs": {
+    "url": "https://github.com/busshi/npm-react-hooks/issues"
+  },
+  "homepage": "https://github.com/busshi/npm-react-hooks#readme",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -33,8 +48,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@busshi/react-hooks",
-  "author": "busshi",
   "module": "dist/react-hooks.esm.js",
   "size-limit": [
     {
